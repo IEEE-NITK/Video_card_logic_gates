@@ -26,3 +26,5 @@ The upper breadboard has the 4 NAND gates for the aforementioned "timestamps" i.
 ![timing jpeg](https://github.com/IEEE-NITK/Video_card_logic_gates/assets/111945991/e5eb7e9d-e364-48dd-bc85-42b0c1a162e4)
 
 
+# VSYNC Demo: 
+https://drive.google.com/file/d/1-v9aBBQa3dlOMqMg3Yk4xZmLYouU0aNM/view?usp=sharing
