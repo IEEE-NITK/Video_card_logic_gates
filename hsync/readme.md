@@ -3,7 +3,7 @@
 The HSYNC is one of the two sub-circuits of the video card. This signal handles the timings of the horizontal positioning of the pixels. The HSYNC circuit has 4 NAND gates which handle the logic for the diplay, front porch, sync and the back porch timings. 
 The circuit allows the placement of pixels from 0 to 200. After that front porch comes in between 200 and 210, the sync between 210 and 242 and back porch between 242 and 264.
 
-These different "timestamps" make for the image to be properly displayed. 
+These different "timestamps" which are actually just values between different pixel numbers make for the image to be properly displayed. 
 
 ## The HSYNC Schematic
 
